@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FD24ADA3-341B-4E81-9795-3947C7C18FFE}|Default">
+  <MonoDevelop.Ide.ItemProperties.miloTryingHard PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="miloTryingHard/Program.cs">
+    <Files>
+      <File FileName="miloTryingHard/Program.cs" Line="117" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

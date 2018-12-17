@@ -1,0 +1,6 @@
+/Users/Helene/Documents/Programmering/Visual Studio/Milo <3/miloTryingHard/miloTryingHard/bin/Debug/miloTryingHard.exe
+/Users/Helene/Documents/Programmering/Visual Studio/Milo <3/miloTryingHard/miloTryingHard/bin/Debug/miloTryingHard.pdb
+/Users/Helene/Documents/Programmering/Visual Studio/Milo <3/miloTryingHard/miloTryingHard/obj/x86/Debug/miloTryingHard.csprojAssemblyReference.cache
+/Users/Helene/Documents/Programmering/Visual Studio/Milo <3/miloTryingHard/miloTryingHard/obj/x86/Debug/miloTryingHard.csproj.CoreCompileInputs.cache
+/Users/Helene/Documents/Programmering/Visual Studio/Milo <3/miloTryingHard/miloTryingHard/obj/x86/Debug/miloTryingHard.exe
+/Users/Helene/Documents/Programmering/Visual Studio/Milo <3/miloTryingHard/miloTryingHard/obj/x86/Debug/miloTryingHard.pdb
